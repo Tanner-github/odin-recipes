@@ -1,0 +1,1 @@
+The goal of this project is to create a html cooking website for practice (mostly with how to use github.)
